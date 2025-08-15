@@ -1,2 +1,1 @@
-# my-project
-“My first GSoC practice project”
+# My GSoC Project
