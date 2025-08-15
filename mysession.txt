@@ -1,0 +1,8 @@
+On branch new-feature
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	myhistory.txt
+	mysession.txt
+	output.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
